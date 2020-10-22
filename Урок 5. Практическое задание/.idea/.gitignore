@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Nikita\GeekBrains\13_Клиент-серверные приложения на Python\03_lesson. Основы сетевого программирования\Урок 3. Практическое задание\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
