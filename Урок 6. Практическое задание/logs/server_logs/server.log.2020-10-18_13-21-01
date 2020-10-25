@@ -1,0 +1,4 @@
+2020-10-18 13:21:01,151     CRITICAL     server_log_config.py     Критическая ошибка
+2020-10-18 13:21:01,153     ERROR        server_log_config.py     Ошибка
+2020-10-18 13:21:01,154     DEBUG        server_log_config.py     Отладочная информация
+2020-10-18 13:21:01,154     INFO         server_log_config.py     Информационное сообщение
